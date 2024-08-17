@@ -1,0 +1,1 @@
+{"class_name": "CNN", "config": {"input_len": 90, "label_len": 8}, "keras_version": "2.9.0", "backend": "tensorflow"}
